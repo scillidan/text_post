@@ -1,3 +1,10 @@
+```
+Title: 8 Stretches to Do Before Bed
+Source: https://www.healthline.com/health/stretching-before-bed
+Author: Emily Cronkleton
+Data: 2021.02.05
+```
+
 # [8 Stretches to Do Before Bed](https://www.healthline.com/health/stretching-before-bed)
 
 Among [natural sleep remedies](https://www.healthline.com/health/healthy-sleep/natural-sleep-aids) — from drinking chamomile tea to diffusing essential oils — stretching is often overlooked. But this simple act may help you fall asleep faster and improve the quality of your sleep.

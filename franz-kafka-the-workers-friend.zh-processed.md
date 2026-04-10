@@ -2,13 +2,13 @@
 
 每个人都听说过弗朗茨·卡夫卡，这位创作了《变形记》和《审判》等杰作的作家。他与父亲之间的困扰关系、他的爱情生活以及最终因肺结核早逝的故事都被详细记录。然而，鲜为人知的是他在布拉格的“捷克王国工人事故保险协会”（Die Arbeiter-Unfall-Versicherungs-Anhalt für das Königreich Böhmen in Prag）中所做的工作。
 
-![](https://scillidan.github.io/cdn_image_post/franz-kafka-the-workers-friend_01.webp)
+![](images/franz-kafka-the-workers-friend_01.jpg)
 
 卡夫卡是一个渴望爱的男人，但因害怕亲密而中断了他所有三次订婚；渴望友谊，但除了少数例外却退缩于友谊。他过着尽可能孤独的生活，声称写作是他的真正职业，而他的工作仅仅是为了实现与父亲的独立。
 
 保险协会是一个准政府组织，负责处理工业安全标准和工业事故。卡夫卡于1908年7月开始在保险协会工作。他的工作时间是上午8点到下午2点，这适合他晚上写作的习惯。这份工作并不繁重，允许卡夫卡在每天短暂休息后思考和写作。显然，他找到了理想的工作；一份既能支付账单，又给予他足够的时间和心理条件进行写作的工作。
 
-![](https://scillidan.github.io/cdn_image_post/franz-kafka-the-workers-friend_02.webp)
+![](images/franz-kafka-the-workers-friend_02.jpg)
 
 保险协会是一个历史悠久的组织，尽管到1908年时正在尝试自我改革并提高效率，但因此工作 frequently 受到官僚主义和繁文缛节的压制。卡夫卡可以选择最少的工作量，让自己有空写作。然而，习惯独处、渴望友谊却又害怕亲密的卡夫卡，却成为了工人权利的拥护者。
 

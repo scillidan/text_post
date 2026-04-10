@@ -1,3 +1,11 @@
+```
+Title: A History of Microwave Ovens
+Source: https://taylor.town/history-of-microwave-ovens
+Author: Taylor Troesh
+Date: 2024.10.12
+Translator: GPT-4o mini
+```
+
 # [微波炉的历史](https://taylor.town/history-of-microwave-ovens)
 
 *特别感谢Cory在 [Radarange.com](https://www.radarange.com/) 保存了如此珍贵的历史！*

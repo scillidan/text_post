@@ -6,17 +6,17 @@ During [my research into vintage Japanese drawing software](https://blog.gingerb
 
 One such device [I bought](https://twitter.com/gingerbeardman/status/1748017395585683751) was the _Sharp PI-4000_, from 1994. This is a pocket computer that rolled out of _Sharp_’s involvement in the development and manufacturing of _Apple_’s _Newton_ _MessagePad_. In 1993 _Sharp_ did their own licenced version of the [_Apple_ _Newton_ _MessagePad_ H1000](https://apple.fandom.com/wiki/MessagePad_H1000), the [_Expert Pad_ _PI-7000_](https://apple.fandom.com/wiki/Sharp_Expert_Pad_PI-7000), but just like _Apple_’s device it wasn’t as successful as they’d hoped. But before that, in 1992, they’d made a device called the _PV-F1_ which was the first touchscreen-only PDA. After the _Expert Pad_ failure, _Sharp_ took another attempt at the concept and came up with the _PI-3000_ in 1993. This solved all the problems with the _PV-F1_, most notably size and cost. The device I have, the _PI-4000_, was released a year later and features higher memory capacity. The _PI-3000_/4000 devices could transfer data via infrared, connect to a modem to send faxes, and by the PI-5000 in 1995 could connect to cell phones to send emails. They all use a simplified—but still quite complicated—version of the multi-window operating system that had been developed for the _PV-F1_.
 
-![](https://scillidan.github.io/cdn_image_post/emoji-history-the-missing-years_01.webp)  
+![](images/emoji-history-the-missing-years_01.jpg)  
 _Sharp_ Zaurus _PI-3000_ “Personal Information Tool” (1993)
 
 So I was trying out the _PI-4000_, the memo function is pretty cool allowing you to draw in different dither shades and pen widths, and use stamps to add symbols to your memo. These are mostly map-related things like road and rail junctions, buildings, and train stations. Pretty cool. Then I tried typing some messages on the device and as I explored the myriad of keyboard input mechanisms I came across something rather familiar (sorry about the awful photo—it’s the best I could do, honest—the screen is very reflective and the pixels are so far from the backing they cast individual shadows!):
 
-![](https://scillidan.github.io/cdn_image_post/emoji-history-the-missing-years_02.webp)  
+![](images/emoji-history-the-missing-years_02.jpg)  
 Look! It's an emoji picker on the _Sharp PI-4000_ (1994)
 
 At this point, I couldn’t quite believe what I was seeing because I was under the impression that the first emoji were created by an anonymous designer at [_SoftBank_ in 1997](https://emojipedia.org/softbank/1997), and the most famous emoji were created by Shigetaka Kurita at [_NTT DoCoMo_ in 1999](https://emojipedia.org/docomo/1999). But the _Sharp PI-4000_ in my hands was released in 1994, and it was chock full of recognisable emoji. Then down the rabbit hole I fell. 🕳️🐇
 
-![](https://scillidan.github.io/cdn_image_post/emoji-history-the-missing-years_03.webp)  
+![](images/emoji-history-the-missing-years_03.png)  
 Emoji present on the _Sharp PI-4000_ (1994)
 
 ## 1990
@@ -24,7 +24,7 @@ Emoji present on the _Sharp PI-4000_ (1994)
 A little more reading, and a tip from my friend [@chamekan](https://twitter.com/chame) on Twitter, unearthed the fact that the _NEC PI-ET1_ in 1990 also contained emoji[^1]. I also found a [collector who owned a device](https://www.reddit.com/r/retrobattlestations/comments/vzm9gm/nec_piet1_the_first_and_only_electronic_organizer/), and we’ll hear more from them later on. The device is literally the coolest thing you’ve ever seen. With system software written by video game developer Hudson Soft its character set features emoji that can be typed inline, and it also features a [“montage function” that allows you to create faces for each of your contacts](https://youtu.be/8_w8elG3w0Y?t=248)—15 years later we’d see something similar in _Mii_ on _Nintendo Wii_ in 2006. The emoji on this device are a lot less well designed, in my humble opinion, than those on the _Sharp_ devices.
 
 [(Video) NEC PC電子手帳 PI-ET1 / 約30年前の古いPDA（字幕対応）](https://www.youtube.com/watch?v=8_w8elG3w0Y)  
-![](https://scillidan.github.io/cdn_image_post/emoji-history-the-missing-years_04.webp)  
+![](images/emoji-history-the-missing-years_04.png)  
 Emoji present on the _NEC PI-ET1_ (1990)
 
 ## A word about word processors
@@ -41,7 +41,7 @@ Before cell phones became prevalent there were pagers, or beepers, in Japan thes
 
 As an aside, it’s interesting to understand how emoji were typed on pagers/beepers. They weren’t selected using a picker, which would have required cycling through a huge range of characters, but rather typed in numeric digits which narrows the cycling down to far less characters.
 
-![](https://scillidan.github.io/cdn_image_post/emoji-history-the-missing-years_05.webp)  
+![](images/emoji-history-the-missing-years_05.jpg)  
 Pager cheat sheet, photo by 山下メロ [https://ima.goo.ne.jp/column/article/6981.html](https://ima.goo.ne.jp/column/article/6981.html)
 
 > The numeric code: `21 91 15 24 12 23 78`  
@@ -54,7 +54,7 @@ Wild. Typing text this way must have felt like programming machine code directly
 
 I was chatting to my friend [Louie Mantia](https://lmnt.me/blog/), who has designed many emoji in his career, discussing the earlier emoji I had found in my 1994 device. Louie asked me to confirm that I could type emoji inline with text, giving me the example `W😲W`, which was his criteria for the symbols to qualify as emoji. If I couldn’t do that, he suggested we could only consider the symbols as icons.
 
-![](https://scillidan.github.io/cdn_image_post/emoji-history-the-missing-years_06.webp)  
+![](images/emoji-history-the-missing-years_06.jpg)  
 Passing the Emoji test on the _Sharp PI-4000_
 
 So if I can type them inline amongst text on my device from 1994 that was capable of connecting to other devices and sending messages, then surely they should be considered the first emoji? Why do we, currently, only count emoji as emoji if they’re on a mobile phone? I’m also wondering when these emoji might have been designed. Were they created in 1994 for the _PI-4000_, in 1993 for the _PI-3000_, or earlier for another device?
@@ -63,11 +63,11 @@ So if I can type them inline amongst text on my device from 1994 that was capabl
 
 So I kept looking. I was aware of another line of _Sharp_ devices, electronic organisers, known as the _Bware_ range in Japan and _Wizard_ in the USA. These were pretty popular at the time, so much so that the USA device even [got it’s own episode of Seinfeld](https://en.wikipedia.org/wiki/The_Wizard_(Seinfeld)) in 1998. I’d come back into contact with these devices just last year as they had the interesting capability of being able to [play video games](https://forums.insertcredit.com/t/stay-sharp-with-sc-denshi-system-techo-games/2326) stored on solid-state application “IC” cards. You can play a version of _Tetris_ by _BPS_ that is quite different to the _Game Boy_ version, and both were released in 1989. You can also play versions of _Sokoban_ by _Thinking Rabbit_, and _Fortress_ by _SSI/Victor_, amongst others.
 
-![](https://scillidan.github.io/cdn_image_post/emoji-history-the-missing-years_07.webp)
+![](images/emoji-history-the-missing-years_07.jpg)
 
 Thanks to a collector, [Akuji](https://www.reddit.com/r/OldHandhelds/comments/sr51ze/may_i_present_you_the_whole_family_of_sharp/), I was able to confirm that the Japanese _PA-8500_ device, released in 1988, contains emoji[^2] similar in design to those found on my _PI-4000_ and on the _WD-A521_. When redrawing these it was obvious that all the _Sharp_ emoji sets are based on the same master design. (I’d love to know more about the _Sharp_ artwork if anybody knows anything.)
 
-![](https://scillidan.github.io/cdn_image_post/emoji-history-the-missing-years_08.webp)  
+![](images/emoji-history-the-missing-years_08.png)  
 Emoji present on _Sharp PA-8500_ (1988)
 
 ## How old is an emoji?
@@ -84,7 +84,7 @@ Once you accept that emoji existed in the 1980s, more things come to light. The 
 
 > Coincidentally, I used a hybrid of this sort of approach [when I added emoji to my game YOYOZO](https://blog.gingerbeardman.com/2023/11/26/easter-egg-emoji-converting-pixels-into-particles/) in September 2023: I plot the emoji as points but define them on a pixel grid.
 
-![](https://scillidan.github.io/cdn_image_post/emoji-history-the-missing-years_09.webp)  
+![](images/emoji-history-the-missing-years_09.jpg)  
 Yakumono typeface (partial/proposed), created by Yutaka Satoh (TYPE-LABO) in 1984
 
 In Matt Alt’s book [“The Secret Lives of Emoji: How Emoticons Conquered the World”](https://www.goodreads.com/book/show/30631850-the-secret-lives-of-emoji), there is a brief mention of ASCII emoticons on the Japanese internet (JUNET) in 1984, and then it fast forwards to 1995 to begin talking about the Pager, missing a decade of emoji usage in the process.
@@ -99,14 +99,14 @@ We can see [emoji in the character sets of Japanese home computers](http://kanji
 
 [“Full Moon With Face”, also known as BA-90](https://ja.wikipedia.org/wiki/BA-90) which was listed in a book of typesetting symbols, published by Sha-ken in 1965. A [smiling moon is still present in the emoji set today](https://emojipedia.org/full-moon-face). 🌝
 
-![](https://scillidan.github.io/cdn_image_post/emoji-history-the-missing-years_10.webp)  
+![](images/emoji-history-the-missing-years_10.png)  
 image courtesy of [Wikimedia](https://commons.m.wikimedia.org/wiki/File:BA-90.png)
 
 ## 1959
 
 [CO-59 is a character set created in 1959](https://ja.wikipedia.org/wiki/CO-59) for exchange of data between Japanese newspapers. In it is included a symbol of a baseball, which again is [still present in emoji](https://emojipedia.org/baseball) ⚾️ and [at Unicode codepoint U+26BE](https://www.fileformat.info/info/unicode/char/26be/index.htm) ⚾︎ today.
 
-![](https://scillidan.github.io/cdn_image_post/emoji-history-the-missing-years_11.webp)  
+![](images/emoji-history-the-missing-years_11.png)  
 image courtesy of [ETL character database](http://etlcdb.db.aist.go.jp/etlcdb/)
 
 ## Comparing Emoji
@@ -129,7 +129,7 @@ As to whether the timeline of emoji history will be rewritten with this knowledg
 
 I won’t be running the Wikipedia editing gauntlet, but if you do please let me know how it goes! 🧨
 
-![](https://scillidan.github.io/cdn_image_post/emoji-history-the-missing-years_12.webp)  
+![](images/emoji-history-the-missing-years_12.png)  
 I added a new tool to the Piskel app to make redrawing hundreds of emoji a little bit easier
 
 ## Terms of use

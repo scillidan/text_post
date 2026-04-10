@@ -1,3 +1,11 @@
+```
+Title: 8 Stretches to Do Before Bed
+Source: https://www.healthline.com/health/stretching-before-bed
+Author: Emily Cronkleton
+Data: 2021.02.05
+Translator: GPT-4o mini
+```
+
 # [睡前8个拉伸动作](https://www.healthline.com/health/stretching-before-bed)
 
 在众多[自然睡眠疗法](https://www.healthline.com/health/healthy-sleep/natural-sleep-aids)中——从喝洋甘菊茶到扩散精油——拉伸常常被忽视。但这个简单的动作可能帮助你更快入睡，改善睡眠质量。
@@ -137,6 +145,3 @@
 
 ![](https://scillidan.github.io/cdn_image_post/8-stretches-to-do-before-bed_08.webp)  
 图片来源：Active Body, Creative Mind
-
-[GPT-4o mini]
-

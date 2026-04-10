@@ -1,3 +1,10 @@
+```
+Title: A History of Microwave Ovens
+Source: https://taylor.town/history-of-microwave-ovens
+Author: Taylor Troesh
+Date: 2024.10.12
+```
+
 # [A History of Microwave Ovens](https://taylor.town/history-of-microwave-ovens)
 
 *Special thanks to Cory at [Radarange.com](https://www.radarange.com/) for preserving so much valuable history!*

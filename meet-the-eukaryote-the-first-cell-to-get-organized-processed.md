@@ -2,7 +2,7 @@
 
 *All modern multicellular life — all life that any of us regularly see — is made of cells with a knack for compartmentalization. Recent discoveries are revealing how the first eukaryote got its start.*
 
-![](https://scillidan.github.io/cdn_image_post/meet-the-eukaryote-the-first-cell-to-get-organized_01.webp)  
+![](images/meet-the-eukaryote-the-first-cell-to-get-organized_01.webp)  
 The eukaryotes invented organization, if we use the literal definition of “organize”: to be furnished with organs.
 
 ## Introduction
@@ -21,7 +21,7 @@ The eukaryotes invented organization, if we use the literal definition of “org
 
 Since that original act, the eukaryote has transformed again and again. It first evolved into a smattering of unique unicellular creatures, such as the ancestors of modern [diplomonads (opens a new tab)](https://microbewiki.kenyon.edu/index.php/Diplomonada), which swim with dual tail clusters, and the parasitic [microsporidians (opens a new tab)](https://microbewiki.kenyon.edu/index.php/Microsporidia), which shoot out coiled tubes to infect victim cells.
 
-![A selection of fossils of microscopic eukaryotic cells, which look like brown raisins. Tappania plana looks like a squished bug, or a raisin with legs.](https://scillidan.github.io/cdn_image_post/meet-the-eukaryote-the-first-cell-to-get-organized_02.webp)  
+![A selection of fossils of microscopic eukaryotic cells, which look like brown raisins. Tappania plana looks like a squished bug, or a raisin with legs.](images/meet-the-eukaryote-the-first-cell-to-get-organized_02.webp)  
 These are among the oldest known fossils of eukaryotic cells, estimated to be between 1.4 billion and 1.65 billion years old. Left: A variety of fossils from [the Limbunya Group (opens a new tab)](https://doi.org/10.1002/spp2.1538) in Northern Territory, Australia. Top right: *Tappania plana* from Montana. The delicate membrane and leglike protuberances are indicative of eukaryotic complexity. Bottom right: *Valeria lophostriata* from the Northern Territory, Australia.
 
 Courtesy of Nick Butterfield
@@ -38,7 +38,7 @@ For many decades, biologists considered eukaryotes to be one of three main domai
 
 However, recent research has changed that view. Over the past few decades, a two-domain tree has prevailed, in which eukaryotes emerged from within archaea rather than alongside them. The theory is supported by recent efforts to uncover the identity of our most recent prokaryotic ancestor — the ancient cell that first enclosed a bacterium, resulting in the eukaryotic cell type. Over the last decade, [the discovery of Asgard archaea](https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/), our closest living prokaryotic relatives, has offered valuable clues.
 
-![](https://scillidan.github.io/cdn_image_post/meet-the-eukaryote-the-first-cell-to-get-organized_03.webp)  
+![](images/meet-the-eukaryote-the-first-cell-to-get-organized_03.svg)  
 Mark Belan/*Quanta Magazine*; source: 5W Infographics
 
 In 2015, Ettema went looking for that mysterious first host cell in a field of sulfide chimneys at the bottom of the Atlantic Ocean. Underwater vents are good candidates for the nursery of that original cell because they spout hot water rich in chemical energy, which some prokaryotes can use to make energy for themselves. His team collected microbial slush from a site known as Loki’s Castle. Back at the lab they used a technique called metagenomics to untangle the mess of microbial DNA and reconstruct the genomes of individual cells.
@@ -49,7 +49,7 @@ Ettema suspected that a cell from this family, later dubbed “Asgards,” might
 
 “All Asgard archaea we see today are … failed eukaryotes,” he said.
 
-![Sulfide deposits accumulate into round, flat mounds and pointed chimneys at this underwater vent.](https://scillidan.github.io/cdn_image_post/meet-the-eukaryote-the-first-cell-to-get-organized_04.webp)  
+![Sulfide deposits accumulate into round, flat mounds and pointed chimneys at this underwater vent.](images/meet-the-eukaryote-the-first-cell-to-get-organized_04.webp)  
 These deep-sea sulfide chimneys, called Loki’s Castle, are home to the microbe *Lokiarchaea* — an Asgard archaean with hallmark traits of eukaryotes in its genome. Asgards are thought to be the closest prokaryotic relatives of eukaryotes.  
 University of Bergen, Norway
 

@@ -2,13 +2,13 @@
 
 Everyone has heard of Franz Kafka, the writer of such masterpieces such as Metamorphosis and The Trial. His troubled relationship with his father, his love life and his eventual early death from tuberculosis are all well documented. What is less well known is his work for Die Arbeiter-Unfall-Versicherungs-Anhalt für das Königreich Böhmen in Prag (the Workers Accident Insurance Institute for the Kingdom of Bohemia in Prague).
 
-![](https://scillidan.github.io/cdn_image_post/franz-kafka-the-workers-friend_01.webp)
+![](images/franz-kafka-the-workers-friend_01.jpg)
 
 Kafka was a man who longed for love but with a fear of intimacy broke off all three of his engagements; longed for fellowship but retreated from friendships with only a few exceptions. He lived as solitary a life as he could stating that writing was his true vocation and that his job was merely a means to an end; independence from his father.
 
 The Insurance Institute was a quasi-government organisation that dealt with safety standards in industry and industrial accidents. Kafka started work with the Insurance Institute in July 1908. His hours were to be 8 a.m. until 2 p.m. which suited his pattern of writing in the evening. The work was not overly onerous and allowed Kafka, after a short rest which he took every day, to think and write. It appeared he had found the perfect job; one that paid his bills but gave him the physical time and psychological conditions in which to write.
 
-![](https://scillidan.github.io/cdn_image_post/franz-kafka-the-workers-friend_02.webp)
+![](images/franz-kafka-the-workers-friend_02.jpg)
 
 The Insurance Institute was an old organisation and, although by 1908 was attempting to reform itself and become more efficient, as a result the work frequently stagnated under the weight of bureaucracy and paperwork. Kafka could, if he chose, do the bare minimum of work and leave himself free to write. But Kafka the loner, the man who longed for friendship but feared intimacy and lived as solitary a life as he could became a champion of workers rights.
 

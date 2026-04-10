@@ -1,10 +1,3 @@
-```
-Title: A holistic perspective on intellectual property, part 1
-Source: https://drewdevault.com/2025/02/13/2025-02-13-On-intellectual-property.html
-Author: Drew DeVault
-Date: 2025.02.13
-```
-
 # [A holistic perspective on intellectual property, part 1](https://drewdevault.com/2025/02/13/2025-02-13-On-intellectual-property.html)
 
 I’d like to write about intellectual property in depth, in this first of a series of blog posts on the subject. I’m not a philosopher, but philosophy is the basis of reasonable politics so buckle up for a healthy Friday afternoon serving of it.
