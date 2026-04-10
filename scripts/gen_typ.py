@@ -1,10 +1,64 @@
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "Pillow"
+# ]
+# ///
+
 # Authors: GLM-4.5🧙‍, scillidan🤡
 
 import sys
 import argparse
 import shutil
 import os
+import subprocess
 from pathlib import Path
+from PIL import Image
+
+
+def upscale_image_if_needed(source_path, dest_path):
+    """Check if image width is less than 800px and upscale it if needed"""
+    try:
+        with Image.open(source_path) as img:
+            width, height = img.size
+
+            if width < 800:
+                print(
+                    f"Image {source_path.name} width ({width}px) < 800px, upscaling..."
+                )
+
+                # Build upscayl command
+                user_home = os.path.expanduser("~")
+                upscayl_cmd = [
+                    "upscayl-bin",
+                    "-m",
+                    f"{user_home}\\Usr\\Model\\ncnn\\models",
+                    "-n",
+                    "4xLSDIR",
+                    "-w",
+                    "800",
+                    "-i",
+                    str(source_path),
+                    "-o",
+                    str(dest_path),
+                ]
+
+                # Run upscayl command
+                result = subprocess.run(upscayl_cmd, capture_output=True, text=True)
+
+                if result.returncode != 0:
+                    print(f"Error upscaling {source_path.name}: {result.stderr}")
+                    # Fall back to simple copy if upscaling fails
+                    shutil.copy(source_path, dest_path)
+                    return False
+
+                print(f"Upscaled {source_path.name} to {dest_path}")
+                return True
+            else:
+                return False
+    except Exception as e:
+        print(f"Error checking image dimensions for {source_path}: {e}")
+        return False
 
 
 def generate_typ(filename, fonts):
@@ -68,8 +122,13 @@ def generate_typ(filename, fonts):
 
             if source_path.exists():
                 if not dest_path.exists():
-                    shutil.copy(source_path, dest_path)
-                    print(f"Copied image: {source_filename}")
+                    # Check if upscaling is needed for this image
+                    upscaled = upscale_image_if_needed(source_path, dest_path)
+
+                    if not upscaled:
+                        # Copy normally if no upscaling needed
+                        shutil.copy(source_path, dest_path)
+                        print(f"Copied image: {source_filename}")
                 copied = True
                 break
 
