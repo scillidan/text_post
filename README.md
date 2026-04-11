@@ -6,7 +6,8 @@
 
 ## Annex
 
-- #blog [PrintABook](https://github.com/LPBeaulieu/Book-Generator-PrintABook)
+- #book [Onshape-Boat-Tutorial](https://github.com/jdpieck/Onshape-Boat-Tutorial)
+- #book [PrintABook](https://github.com/LPBeaulieu/Book-Generator-PrintABook)
 - #Html [How do animals sound across languages?](https://pudding.cool/2025/03/language/)
 - #Html [How Sonic DNA Connects Generations of Music](https://pudding.cool/2025/04/music-dna/)
 - #lesson [Learning Music](https://learningmusic.ableton.com/)
