@@ -1,3 +1,10 @@
+```
+Title: The Art of Finishing
+Source: https://www.bytedrum.com/posts/art-of-finishing/
+Author: Tomas Stropus
+Date: 2024.09.02
+```
+
 # [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 
 It’s a quiet Saturday afternoon. I’ve carved out a few precious hours for coding, armed with a steaming cup of coffee and the familiar urge to dive into a project. As I settle into my chair and open my terminal, I’m confronted with a challenge that’s become all too familiar: deciding which of my many unfinished projects to tackle.

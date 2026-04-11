@@ -1,3 +1,10 @@
+```
+Title: A letter to open-source maintainers
+Source: https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/
+Author: Xuanwo
+Date: 2024.12.09
+```
+
 # [A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
 
 Here is a letter to all friends who are or aspire to be open-source maintainers. I have repeated many of these core ideas in various places. I believe it’s better to write them in a letter so that I don’t have to repeat myself again. This letter includes everything I want to share with NEW open-source maintainers. I hope all of them can find happiness and thrive in the open-source community. I wish for none of them to leave the open-source field with regret or sadness.

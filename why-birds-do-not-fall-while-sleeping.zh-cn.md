@@ -1,3 +1,11 @@
+```
+Title: Why birds do not fall while sleeping
+Source: https://news.cnrs.fr/articles/why-birds-do-not-fall-while-sleeping
+Author: Mehdi Harmi
+Date: 2024.10.15
+Translator: GPT-4o mini
+```
+
 # [为什么鸟在睡觉时不会掉下来](https://news.cnrs.fr/articles/https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping)
 
 ![](https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping_01.webp)  
@@ -39,6 +47,3 @@
 [^1]: https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2023.0433  
 [^2]: CNRS/MNHN  
 [^3]: CNRS/南特中央理工学院/南特大学
-
-[GPT-4o mini]
-

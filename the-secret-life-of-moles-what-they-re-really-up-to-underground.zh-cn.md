@@ -1,3 +1,11 @@
+```
+Title: The Secret Life Of Moles: What They’re Really Up To Underground
+Source: https://thenaturenetwork.co.uk/the-secret-life-of-moles-what-theyre-really-up-to-underground/
+Author: Sarah Whitmore
+Date: 2025.08.23
+Translator: GPT-4o mini
+```
+
 # [鼹鼠的秘密生活：它们在地下到底在忙些什么](https://thenaturenetwork.co.uk/the-secret-life-of-moles-what-theyre-really-up-to-underground/)
 
 ![](https://scillidan.github.io/cdn_image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_01.webp)
@@ -77,5 +85,3 @@ Getty Images/iStockphoto
 鼹鼠的活动影响的不仅仅是蚯蚓种群。它们影响根系生长模式、水排水、土壤通气和地下营养物质的分布。它们的存在塑造了整个地下生态系统。
 
 植物根系经常沿着鼹鼠的隧道生长，以利用改善的土壤结构和排水。许多地下昆虫和小生物利用被遗弃的鼹鼠隧道作为高速公路，创建出没有鼹鼠工程就无法存在的互联地下社区。
-
-[GPT-4o mini]

@@ -1,3 +1,10 @@
+```
+Title: An Illustrated Guide to OAuth
+Source: https://www.ducktyped.org/p/an-illustrated-guide-to-oauth
+Author: Aditya Bhargava
+Date: 2025.08.25
+```
+
 # [An Illustrated Guide to OAuth](https://www.ducktyped.org/p/an-illustrated-guide-to-oauth)
 
 ![access token image](https://scillidan.github.io/cdn_image_post/an-illustrated-guide-to-o-auth_01.webp)

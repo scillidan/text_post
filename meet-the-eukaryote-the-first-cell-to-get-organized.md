@@ -1,3 +1,10 @@
+```
+Title: Meet the Eukaryote, the First Cell to Get Organized
+Source: https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/
+Author: Molly Herring
+Date: 2024.10.28
+```
+
 # [Meet the Eukaryote, the First Cell to Get Organized](https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/)
 
 *All modern multicellular life — all life that any of us regularly see — is made of cells with a knack for compartmentalization. Recent discoveries are revealing how the first eukaryote got its start.*

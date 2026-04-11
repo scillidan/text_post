@@ -1,3 +1,10 @@
+```
+Title: Just a Little Longer: Joshua Barnes on a melancholic history of the chapter
+Source: https://sydneyreviewofbooks.com/reviews/just-a-little-longer
+Author: Joshua Barnes
+Date: 2025.08.07
+```
+
 # [Just a Little Longer: Joshua Barnes on a melancholic history of the chapter](https://sydneyreviewofbooks.com/reviews/just-a-little-longer)
 
 **Why did books start being divided into chapters? Joshua Barnes reviews Nicholas Dames’ history of literary segmentation, a study that slices through and pauses over what chapters have always told us about the times we live in.**

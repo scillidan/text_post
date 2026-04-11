@@ -1,3 +1,11 @@
+```
+Title: Meet the Italian ‘Fruit Detective’ Who Investigates Centuries-Old Paintings for Clues About Produce That Has Disappeared From the Kitchen Table
+Source: https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/
+Author: Mark Schapiro
+Photographs: Simona Ghizzoni
+Date: 2024.11
+```
+
 # [Meet the Italian ‘Fruit Detective’ Who Investigates Centuries-Old Paintings for Clues About Produce That Has Disappeared From the Kitchen Table](https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/)
 
 **Renaissance paintings, medieval archives, cloistered orchards—how one Italian scientist is uncovering secrets that could help combat a growing agricultural crisis**

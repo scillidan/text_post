@@ -1,3 +1,11 @@
+```
+Title: Notes from a tired maintainer
+Source: https://github.com/pi0/tired-maintainer
+Author: Pooya Parsa
+Date: 2024.06.23
+Translator: GPT-4o mini
+```
+
 # [来自疲惫维护者的笔记](https://github.com/pi0/tired-maintainer)
 
 嗨。您可能是通过某种方式发现了这段文字，或者通过链接找到它，可能是在一个关闭的Pull-Request (PR) 议题或聊天中。如果您来自一个关闭的议题或PR，首先感谢您对我们的贡献和帮助，我非常感激 ❤️
@@ -62,5 +70,3 @@
 ## 最后说明
 
 来自已经延迟的议题或PR的这些笔记可能并不令人愉快（对我来说也是如此），但除非我们共同意识到开源的运作方式以及作为维护者是什么样，否则我们无法共同改善事情。
-
-[GPT-4o mini]

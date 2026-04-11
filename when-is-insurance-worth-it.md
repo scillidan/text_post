@@ -1,3 +1,10 @@
+```
+Title: When Is Insurance Worth It?
+Source: https://entropicthoughts.com/when-is-insurance-worth-it
+Author: kqr
+Date: 2025.06.03
+```
+
 # [When Is Insurance Worth It?](https://entropicthoughts.com/when-is-insurance-worth-it)
 
 TL;DR: If you want to know whether getting insurance is worth it, [use the Kelly Insurance Calculator](https://xkqr.org/insurance). If you want to know why or how, read on.

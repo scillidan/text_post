@@ -1,3 +1,11 @@
+```
+Title: What I've Learnt After Making My First Hobby Game
+Source: https://ruoyusun.com/2018/06/15/guide-for-non-game-dev.html
+Author: Ruoyu Sun
+Date: 2018.06.15
+Translator: GPT-4o mini
+```
+
 # [我在制作第一个业余游戏后学到的东西](https://ruoyusun.com/2018/06/15/guide-for-non-game-dev.html)
 
 ## 原因
@@ -57,5 +65,3 @@ Extra Credit 有一个有趣的视频 [非专业游戏开发](https://www.youtub
 拥有一个正式的“发布日期”和将其公布出去，制作一个预告片或海报并附上发布日期，计划一个发布派对，这也很有帮助。这些听起来可能很象征性，但你更可能完成游戏。
 
 对于我的第一个游戏，我选择制作几个 Facebook Instant Games，因为与朋友分享和玩较为简单，你可以查看它们：[Pinball Breakout](https://www.facebook.com/instantgames/198493907436001/)、[Box Flip](https://www.facebook.com/instantgames/1386176524819862/)、[Rocket Run](https://www.facebook.com/instantgames/179283319572478/)
-
-[GPT-4o mini]

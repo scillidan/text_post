@@ -1,3 +1,11 @@
+```
+Title: Why Open Source Misses the Point of Free Software
+Source: https://www.gnu.org/philosophy/open-source-misses-the-point.html
+Author: Richard Stallman
+Date: 2024.01.01
+Translator: GPT-4o mini
+```
+
 # [开放源代码为何忽视自由软件的要点](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
 
 > “自由软件”和“开放源代码”这两个术语几乎代表了相同类型的程序。然而，它们对这些程序所传达的信息却深刻不同，基于的价值观也不同。自由软件运动为计算用户的自由而奋斗，它是为了自由和正义而发起的运动。相比之下，开放源代码的理念主要重视实际优势，并不为原则而努力。这就是为什么我们不同意开放源代码，并且不使用这个术语的原因。
@@ -117,6 +125,3 @@
 ## 结论
 
 随着开放源代码倡导者将新用户引入我们的社区，我们自由软件活动家必须承担起将自由问题提起注意的任务。我们必须说：“这是自由软件，它为您带来自由！”——比以往任何时候都更大声、更频繁。每次您说“自由软件”而不是“开放源代码”，您都在帮助我们的事业。
-
-[GPT-4o mini]
-

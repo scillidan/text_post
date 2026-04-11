@@ -1,3 +1,11 @@
+```
+Title: Humane Typography in the Digital Age: Thoughts on typography
+Source: https://matejlatin.github.io/Gutenberg/example2/
+Author: Matej Latin
+Date: 2016.01.25
+Translator: GPT-4o mini
+```
+
 # [数字时代的人性化排版：对排版的思考](https://matejlatin.github.io/Gutenberg/example2/)
 
 **埃里克·吉尔的《排版随想》将读者带回1930年。这是两个世界冲突终结的一年。工业世界的机器最终取代了手工艺。**
@@ -51,5 +59,3 @@
 ## 追求完美
 
 人类不是完美的。完美是一个永远无法达成的目标。我们在所做的一切中总会有一小部分人性。无论这部分有多小，我们都应确保它超越媒介的界限。我们必须首先考虑信息。我们应该使用什么字体以及为什么？这种字体是否与信息相匹配，并传达了我们想表达的内容？行距如何，以及为什么？设计中是否会有其他字体？它们将以何种方式结合？是什么让我们的设计独特，以及理由是什么？这就是排版中残留的人性部分。它可能是最后一部分。我们真的要放弃它吗？
-
-[GPT-4o mini]

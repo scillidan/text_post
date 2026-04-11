@@ -1,3 +1,11 @@
+```
+Title: What We Find in the Sewers
+Source: https://www.asimov.press/p/sewers
+Author: Calum Drysdale
+Date: 2025.08.25
+Translator: GPT-4o mini
+```
+
 # [我们在下水道中发现的](https://www.asimov.press/p/sewers)
 
 ![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_01.webp)
@@ -247,6 +255,3 @@
 [^9]: 在他那个时代，他是一位怪异的人：一位素食主义者和戒酒者。值得注意的是，他的饮品选择是蒸馏水，他认为足够[纯净](https://pmc.ncbi.nlm.nih.gov/articles/PMC1325279/)，这一立场在罗伯特·科赫识别出弧菌之前的几十年是相当罕见的。
 [^10]: 这被认为是产生沼泽地火虫的相同过程。腐烂的物质产生甲烷并点燃，从而产生小火焰，吸引流浪者走向他们在沼泽中的死亡。
 [^11]: 黄金在许多植物性食品中的含量为0.01 – 0.1 µg kg⁻¹，饮用水中的含量也相似。正常的饮食每天提供数百纳克的元素金，但超过95%的黄金并未被吸收。
-
-[GPT-4o mini]
-

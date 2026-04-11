@@ -1,3 +1,10 @@
+```
+Title: The Life and Death of Open Source Companies
+Source: https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/
+Author: Armin Ronacher
+Date: 2023.12.25
+```
+
 # [The Life and Death of Open Source Companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 
 You likely know that I’ve contributed [significantly to the Open Source community](https://lucumr.pocoo.org/projects), that I work [for an Open Source Company](https://sentry.io/welcome/), that we got [shit for calling ourselves Open Source](https://news.ycombinator.com/item?id=36971490) and that we subsequently created [a new license](https://fsl.software/) to address at least some of these concerns. I also shared [my personal thoughts](https://lucumr.pocoo.org/2023/11/19/cathedral-and-bazaaar-licensing/) on that license recently which unfortunately promptly [attracted a bunch more negative comments](https://news.ycombinator.com/item?id=38331173) for that. That introduction might make me sound a tad bitter, so let’s talk about something else.

@@ -1,3 +1,11 @@
+```
+Title: The Offshoring of Thought and Memory
+Source: https://www.multiverses.xyz/facts/the-offshoring-of-thought-and-memory/
+Author: James
+Date: 2023.05.05
+Translator: GPT-4o mini
+```
+
 # [思想与记忆的外包](https://www.multiverses.xyz/facts/the-offshoring-of-thought-and-memory/)
 
 在博尔赫斯的《秘密奇迹》中，一个被判死刑的人得到了上帝的不同寻常的宽恕。当他站在行刑队面前时，士兵们、他的身体、以及整个世界都停止了。只有他的思想继续运转。在这段被给予的精神时间里，他努力创作一部剧作。在完成的那一刻，他被杀。
@@ -73,5 +81,3 @@
 我不相信意识是二元的。人类的心智并非在进化历程的某一瞬间被点亮。更可能的效果类似于调光开关的进步，随着我们的脑和身体的发展，光线愈加明亮。
 
 通过语言，我们开始与其他人分享观念的负担。通过文字，我们将它传播到物理世界。思维的努力现在正被交给机器。在未来十年中，我们可能会看到新形式意识的微光。这并不是让旧的光芒暗淡下去的理由。
-
-[GPT-4o mini]

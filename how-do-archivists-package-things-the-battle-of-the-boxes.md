@@ -1,3 +1,10 @@
+```
+Title: How do archivists package things? The battle of the boxes
+Source: https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/
+Author: Region of Peel Archives
+Date: 2024.09.10
+```
+
 # [How do archivists package things? The battle of the boxes](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
 
 [![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_01.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20240409_093520-3819877179-e1725479157965.jpg)

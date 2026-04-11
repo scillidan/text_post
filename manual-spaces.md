@@ -1,3 +1,12 @@
+```
+Title: Manual: Spaces
+Source: https://type.today/en/journal/spaces
+Author: Anya Danilova
+Typography Consultant: Alexey Murashko
+English translation: Dina Mingalieva
+Date: 2020.12.22
+```
+
 # [Manual: Spaces](https://type.today/en/journal/spaces)
 
 *Whitespace is the most invisible and, arguably, the most important of typographic elements. There are no less than ten whitespace characters in Latin and Cyrillic typography—and here’s what they are, when to use them, and how to find them*

@@ -1,3 +1,9 @@
+```
+Title: The Evaporative Cooling Effect in Social Network
+Source: https://blogs.cornell.edu/info2040/2015/10/14/the-evaporative-cooling-effect-in-social-network/
+Date: 2015.10.14
+```
+
 # [The Evaporative Cooling Effect in Social Network](https://blogs.cornell.edu/info2040/2015/10/14/the-evaporative-cooling-effect-in-social-network/)
 
 The Evaporative Cooling Effect describes the phenomenon that high value contributors leave a community because they cannot gain something from it, which leads to the decrease of the quality of the community. Since the people most likely to join a community are those whose quality is below the average quality of the community, these newcomers are very likely to harm the quality of the community. With the expansion of community, it is very hard to maintain the quality of the community. In this article, the author proposes four examples of Evaporative Cooling Effect, and also gives some advice on how to minimize the influence of Evaporative Cooling Effect. In the following paragraphs I will try to explain those examples and suggestions based on my knowledge and understanding.

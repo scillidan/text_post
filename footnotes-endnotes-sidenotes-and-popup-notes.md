@@ -1,3 +1,10 @@
+```
+Title: Footnotes, Endnotes, Sidenotes and Popup Notes
+Source: https://www.publisha.org/pages/footnotes/
+Author: Chris Jennings
+Date: 2018.05.29
+```
+
 # [Footnotes, Endnotes, Sidenotes and Popup Notes](https://www.publisha.org/pages/footnotes/)
 
 I start with a quote from Robert Bringhurst in his _The Elements of Typographic Style_[^1]

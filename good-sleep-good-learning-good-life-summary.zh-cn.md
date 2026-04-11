@@ -1,3 +1,10 @@
+```
+Title: Good sleep, good learning, good life: Summary
+Source: https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life:_Summary
+Date: 2018.01.12
+Translator: GPT-4o mini
+```
+
 # [良好的睡眠，良好的学习，良好的生活：总结](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life:_Summary)
 
 本文来自于："_[睡眠科学](https://supermemo.guru/wiki/Science_of_sleep "睡眠科学")_" 由 [Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak "Piotr Wozniak") (2017)
@@ -109,5 +116,3 @@
 - 人类的睡眠可以通过生物治疗法调整，相对于时钟的变化遵循[相位反应曲线 (PRC)](https://supermemo.guru/wiki/PRC "相位反应曲线")。
 
 [^1]: Walker M.P.，[睡眠和睡眠损失的认知后果](http://www.ocf.berkeley.edu/~sanl/reprints/Walker_SleepMedicine_2008.pdf)，"睡眠医学 / 第9卷 / 补刊1 (2008): 29-34
-
-[GPT-4o mini]

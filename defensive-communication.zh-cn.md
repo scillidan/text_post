@@ -1,3 +1,10 @@
+```
+Title: DEFENSIVE COMMUNICATION
+Source: https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html
+Author: Jack R. Gibb
+Translator: GPT-4o mini
+```
+
 我提供这个历史文章的HTML版本，因为它不容易获得，但对我的文章至关重要：Reagle, J. (2010). “Be nice”: Wikipedia norms for supportive communication. _New Review of Hypermedia and Multimedia (Special Issue on Web Science)_, 16(1), 161–180. [https://doi.org/10.1080/13614568.2010.498528](https://doi.org/10.1080/13614568.2010.498528)。
 
 我对此的转录或编辑不承担任何责任。—Reagle
@@ -94,5 +101,3 @@
 
 [^2]: J. R. Gibb, "小组中的防御水平与影响潜力," 见 L. Petrullo 和 B. M. Bass (编辑)，《领导与人际行为》（纽约：霍尔特，里因哈特与温斯顿，1961年），第66-81页
 [^3]: J. R. Gibb, "群体教学的社会心理过程," 见 N. B. Henry (编辑)，《教学小组的动态》（全国教育研究协会第59届年鉴，第II部分，1960年），第115-135页。
-
-[GPT-4o mini]

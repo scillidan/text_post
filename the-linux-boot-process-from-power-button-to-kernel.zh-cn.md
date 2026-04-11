@@ -1,3 +1,11 @@
+```
+Title: The Linux Boot Process: From Power Button to Kernel
+Source: https://www.0xkato.xyz/linux-boot/
+Author: 0xkato
+Date: 2025.10.25
+Translator: GPT-4o mini
+```
+
 # [Linux启动过程：从电源按钮到内核](https://www.0xkato.xyz/linux-boot/)
 
 ## 第一部分 — 从电源按钮到内核的第一口气
@@ -177,5 +185,3 @@ ___
 **重定位。** 在代码的加载基址不同于构建基址时进行的修正。
 
 **kASLR。** 在启动时随机化内核基址以使利用更困难。
-
-[GPT-4o mini]

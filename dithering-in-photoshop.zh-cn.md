@@ -1,3 +1,11 @@
+```
+Title: Dithering in Photoshop
+Source: http://abductedplatypus.com/tools/2017/04/14/dither-brushes.html
+Author: Abducted Platypus
+Date: 2017.04.14
+Translator: GPT-4o mini
+```
+
 # [Photoshop中的抖动](http://abductedplatypus.com/tools/2017/04/14/dither-brushes.html)
 
 我最近发布了一套[抖动画笔](https://abductedplatypus.itch.io/dither-brushes)，适用于Photoshop（CS5及更高版本）。然而，在像素艺术社区中，使用工具制作像素艺术被[视为不被赞同](http://pixeljoint.com/forum/forum_posts.asp?TID=11299&PID=139318#139318)，因为社区认为将每个像素单独而有意地放置是一个挑战。它们在网格中绘制出完美的图形，通常使用有限的色彩集。那么，为什么我还要开发一个工具并公开提供这套画笔呢？我对使用它的[建议](http://abductedplatypus.com/tools/2017/04/14/dither-brushes.html#recommendations)是什么？为了解答这个问题，我首先会回答以下内容：
@@ -58,5 +66,3 @@
 ## 替代方案
 
 如果你有15美元可以花费，你也可以去购买[aseprite](https://www.asesprite.org/)，它包括类似的抖动工具，以及许多其他功能。然而，个人而言，我不喜欢使用它的流程。（我会在不久的将来再次尝试。）我喜欢[PyxelEdit](https://www.pyxeledit.com/)，主要是因为它设计得感觉像Photoshop（但在崩溃时有更好的备份支持）。我用它来创建轮廓和初始颜色，然后在Photoshop中进行一些抖动（主要是阴影）、反走样和有时选择性轮廓（如果我想追求卡通效果并需要增加背景与前景之间的对比度，我会使用selout-不，我并不喜欢。）然后返回到PyxelEdit进行精灵图集和动画。如果您对任何术语不确定，我非常喜欢[这个像素艺术](http://pixeljoint.com/forum/forum_posts.asp?TID=11299)教程。
-
-[GPT-4o mini]

@@ -1,3 +1,11 @@
+```
+Title: The Linux Boot Process: From Power Button to Kernel
+Source: https://www.0xkato.xyz/linux-boot/
+Author: 0xkato
+Date: 2025.10.25
+Translator: GPT-4o mini
+```
+
 # [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
 
 ## Part 1 — From power button to the kernel’s first breath
@@ -177,4 +185,3 @@ ___
 **Relocation.** A fix‑up that adjusts addresses when code is loaded at a different base than it was built for.
 
 **kASLR.** Randomizes kernel base addresses at boot to make exploitation harder.
-

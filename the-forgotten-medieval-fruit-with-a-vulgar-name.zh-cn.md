@@ -1,3 +1,11 @@
+```
+Title: The forgotten medieval fruit with a vulgar name
+Source: https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot
+Author: Zaria Gorvett
+Date: 2021.03.25
+Translator: GPT-4o mini
+```
+
 # [一个被遗忘的中世纪水果，带着粗俗的名字](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 
 ![](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_01.webp)
@@ -90,6 +98,3 @@
 如果这种趋势持续下去，也许这种水果将很快会有一代新的不可言喻的名字。 
 
 *扎里亚·戈尔韦特（Zaria Gorvett）是BBC未来（BBC Future）的高级记者，推特：* [**_@ZariaGorvett_**](https://twitter.com/ZariaGorvett)
-
-[GPT-4o mini]
-

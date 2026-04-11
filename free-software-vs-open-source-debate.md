@@ -1,3 +1,10 @@
+```
+Title: Why Open Source Misses the Point of Free Software
+Source: https://www.gnu.org/philosophy/open-source-misses-the-point.html
+Author: Richard Stallman
+Date: 2024.01.01
+```
+
 # [Why Open Source Misses the Point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
 
 > The terms “free software” and “open source” stand for almost the same range of programs. However, they say deeply different things about those programs, based on different values. The free software movement campaigns for freedom for the users of computing; it is a movement for freedom and justice. By contrast, the open source idea values mainly practical advantage and does not campaign for principles. This is why we do not agree with open source, and do not use that term.
@@ -120,5 +127,5 @@ As the advocates of open source draw new users into our community, we free softw
 
 ### Notes
 
--   Joe Barr wrote an article called [Live and let license](https://web.archive.org/web/20010618050431/itworld.com/AppDev/350/LWD010523vcontrol4/pfindex.html) that gives his perspective on this issue.
--   Lakhani and Wolf's [paper on the motivation of free software developers](https://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf) says that a considerable fraction are motivated by the view that software should be free. This is despite the fact that they surveyed the developers on SourceForge, a site that does not support the view that this is an ethical issue.
+- Joe Barr wrote an article called [Live and let license](https://web.archive.org/web/20010618050431/itworld.com/AppDev/350/LWD010523vcontrol4/pfindex.html) that gives his perspective on this issue.
+- Lakhani and Wolf's [paper on the motivation of free software developers](https://ocw.mit.edu/courses/sloan-school-of-management/15-352-managing-innovation-emerging-trends-spring-2005/readings/lakhaniwolf.pdf) says that a considerable fraction are motivated by the view that software should be free. This is despite the fact that they surveyed the developers on SourceForge, a site that does not support the view that this is an ethical issue.

@@ -1,3 +1,11 @@
+```
+Title: A letter to open-source maintainers
+Source: https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/
+Author: Xuanwo
+Date: 2024.12.09
+Translator: GPT-4o mini
+```
+
 # [对开源维护者的信](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)
 
 这里是一封写给所有朋友的信，他们是开源维护者或希望成为开源维护者。我在不同的地方重复了许多核心观点。我认为把这些写成一封信更好，这样我就不必再重复了。这封信包括我想与新开源维护者分享的一切。我希望他们都能在开源社区中找到快乐和繁荣。我希望没有人因离开开源领域而感到遗憾或悲伤。
@@ -129,5 +137,3 @@ ___
 > 其他人使用您的MIT许可项目赚钱而不提及您的名字是完全可以接受的。
 
 这是不正确的。MIT许可证要求用户在所有复制或重要部分软件中包括原始版权声明。用户需在许可证声明中包括该信息，但无需在市场营销材料中提及开源项目或作者。我为造成的混淆而道歉，并感谢[@joshka在Hacker News](https://news.ycombinator.com/item?id=42395420)的反馈。
-
-[GPT-4o mini]

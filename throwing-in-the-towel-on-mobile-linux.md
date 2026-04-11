@@ -1,3 +1,10 @@
+```
+Title: Throwing in the towel on mobile Linux
+Source: https://drewdevault.com/2023/06/16/Mobile-linux-retrospective.html
+Author: Drew DeVault
+Date: 2023.06.16
+```
+
 # [Throwing in the towel on mobile Linux](https://drewdevault.com/2023/06/16/Mobile-linux-retrospective.html)
 
 I have been tinkering with mobile Linux – a phrase I will use here to describe any Linux distribution other than Android running on a mobile device – as my daily driver since about 2019, when I first picked up the PinePhone. For about 3 years I have run mobile Linux as my daily driver on my phone, and as of a few weeks ago, I’ve thrown in the towel and switched to Android.
@@ -11,21 +18,21 @@ The distribution I ran for the most time is [postmarketOS](https://postmarketos.
 
 I have returned to LineageOS as my daily driver and closed the book on mobile Linux for the time being. What put the final nails in the coffin was what I have been calling out as my main concern throughout my experience: reliability, particularly of the telephony components.
 
-| Use-case | Importance | postmarketOS | UBports | LineageOS |
-| --- | --- | --- | --- | --- |
-| Basic system reliability | 5 | 2 | 4 | 5 |
-| Mobile telephony | 5 | 3 | 3 | 5 |
-| Hotspot | 4 | 5 | 3 | 5 |
-| 2FA | 4 | 4 | 1 | 5 |
-| Web browsing | 4 | 5 | 2 | 4 |
-| Mobile banking | 4 | 1 | 1 | 5 |
-| Bluetooth audio | 3 | 4 | 2 | 4 |
-| Music player | 3 | 4 | 1 | 3 |
-| Reading email | 3 | 1 | 3 | 4 |
-| Navigation aid | 3 | 2 | 1 | 5 |
-| Camera | 3 | 3 | 3 | 5 |
-| Password manager | 3 | 5 | 1 | 1 |
-| sysadmin | 3 | 5 | 2 | 3 |
+| Use-case                 | Importance | postmarketOS | UBports | LineageOS |
+| :-                       | :-         | :-           | :-      | :-        |
+| Basic system reliability | 5          | 2            | 4       | 5         |
+| Mobile telephony         | 5          | 3            | 3       | 5         |
+| Hotspot                  | 4          | 5            | 3       | 5         |
+| 2FA                      | 4          | 4            | 1       | 5         |
+| Web browsing             | 4          | 5            | 2       | 4         |
+| Mobile banking           | 4          | 1            | 1       | 5         |
+| Bluetooth audio          | 3          | 4            | 2       | 4         |
+| Music player             | 3          | 4            | 1       | 3         |
+| Reading email            | 3          | 1            | 3       | 4         |
+| Navigation aid           | 3          | 2            | 1       | 5         |
+| Camera                   | 3          | 3            | 3       | 5         |
+| Password manager         | 3          | 5            | 1       | 1         |
+| sysadmin                 | 3          | 5            | 2       | 3         |
 
 
 **More on these use-cases and my experiences**  

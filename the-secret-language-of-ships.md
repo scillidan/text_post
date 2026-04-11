@@ -1,3 +1,11 @@
+```
+Title: The Secret Language of Ships
+Source: https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/
+Author: Erin Van Rheenen
+Photos: David Webster Smith
+Date: 2018.04.10
+```
+
 # [The Secret Language of Ships](https://hakaimagazine.com/videos-visuals/the-secret-language-of-ships/)
 
 **Signs and symbols on the sides of ships tell stories about an industry few outsiders understand.**

@@ -1,9 +1,10 @@
-# Deploy Hexo sites to VPS
+```
+Title: Deploy Hexo sites to VPS
+Author: 回风
+Date: 2015.08.16
+```
 
----
-date: 2015-08-16
-authors: 回风
----
+# Deploy Hexo sites to VPS
 
 **参考以下内容，感谢原作者，转载留个链接:**
 

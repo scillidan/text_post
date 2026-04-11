@@ -1,3 +1,11 @@
+```
+Title: Franz Kafka – the workers’ friend
+Source: https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/
+Author: mwcraig11
+Date: 2018.01.14
+Translator: GPT-4o mini
+```
+
 # [弗朗茨·卡夫卡——工人的朋友](https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/)
 
 每个人都听说过弗朗茨·卡夫卡，这位创作了《变形记》和《审判》等杰作的作家。他与父亲之间的困扰关系、他的爱情生活以及最终因肺结核早逝的故事都被详细记录。然而，鲜为人知的是他在布拉格的“捷克王国工人事故保险协会”（Die Arbeiter-Unfall-Versicherungs-Anhalt für das Königreich Böhmen in Prag）中所做的工作。
@@ -21,5 +29,3 @@
 卡夫卡在保险协会的工作让他亲身体验到工业世界的残酷本质，这可能激发了他许多作品的灵感。我们不应忘记他在改善波西米亚工人条件方面所扮演的角色。
 
 —oOo—
-
-[GPT-4o mini]

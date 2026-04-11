@@ -1,3 +1,11 @@
+```
+Title: Why Web Apps Disappoint Me
+Source: https://entropicthoughts.com/why-web-apps-disappoint-me
+Author: kqr
+Date: 2015.02.06
+Translator: GPT-4o mini
+```
+
 # [为什么网络应用让我失望](https://entropicthoughts.com/why-web-apps-disappoint-me)
 
 我曾多次听到过以下引述的变体：
@@ -45,5 +53,3 @@ HTML 是一种标记文档的语言。这意味着 HTML 是作者向读者指示
 我相信我们看到了一种转变的开始，从手持设备到桌面操作系统的“应用商店”逐渐普及，但我也认为还需要另一次信念的飞跃才能完成这一转变。
 
 [^1]: 我知道 canvas 元素的存在，我知道它允许绘制任意图形，甚至可以进行硬件加速等等，但它仍然是一个非常原始的工具。我还没有见过适用于 canvas 图形的 GUI 工具包。（请不要再想出任何主意了。）
-
-[GPT-4o mini]

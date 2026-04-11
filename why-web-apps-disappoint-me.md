@@ -1,3 +1,10 @@
+```
+Title: Why Web Apps Disappoint Me
+Source: https://entropicthoughts.com/why-web-apps-disappoint-me
+Author: kqr
+Date: 2015.02.06
+```
+
 # [Why Web Apps Disappoint Me](https://entropicthoughts.com/why-web-apps-disappoint-me)
 
 I've several times heard a variation of the following quote.

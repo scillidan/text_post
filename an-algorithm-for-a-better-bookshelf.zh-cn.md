@@ -1,3 +1,11 @@
+```
+Title: An Algorithm for a Better Bookshelf: Managing the strategic positioning of empty spaces.
+Source: https://cacm.acm.org/news/an-algorithm-for-a-better-bookshelf/
+Author: Erica Klarreich
+Date: 2025.06.30
+Translator: GPT-4o mini
+```
+
 # [更好的书架算法：管理空白空间的战略定位。](https://cacm.acm.org/news/an-algorithm-for-a-better-bookshelf/)
 
 走进图书馆，你可能会注意到大多数书架并不满——图书管理员会在每个书架上留下一些空余空间。这样，当他们得到新书时，就可以将它们放入适当的位置，而不必移动太多其他书籍。
@@ -71,6 +79,3 @@ Blelloch预测，最近的进展可能会吸引更多研究人员关注书架问
 	**在线单调列表标记的严格下限。 *SIAM离散数学杂志, 18* (3):626-637, 2004。**
 - *Itai, A. 等.*  
 	**优先队列的稀疏表实现。发表于 *第8届国际自动机、语言和编程研讨会（ICALP），计算机科学讲义丛书第115卷，第417-431页，斯普林格，1981年。**
-
-[GPT-4o mini]
-

@@ -1,3 +1,12 @@
+```
+Title: Meet the Italian ‘Fruit Detective’ Who Investigates Centuries-Old Paintings for Clues About Produce That Has Disappeared From the Kitchen Table
+Source: https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/
+Author: Mark Schapiro
+Photographs: Simona Ghizzoni
+Date: 2024.11
+Translator: GPT-4o mini
+```
+
 # [认识意大利“果实侦探”，她调查了数百年前的画作，以寻找关于已从餐桌上消失的农产品的线索](https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/)
 
 **文艺复兴的画作、中世纪的档案、隐秘的果园——一位意大利科学家如何揭示可以帮助应对日益严峻的农业危机的秘密**
@@ -118,6 +127,3 @@
 在小山的边缘，另一棵梨树，其果实更为细长，与布法里尼壁画相符。在陀思妥耶夫斯基父亲种植的旧园中，达拉·拉基奥内的父亲种植的园子里，我们发现了苹果——形成中尚处于幼年萌芽的短鼻苹果（与贝利尼误标的苹果相似）以及在平托里基奥那幅画中圣母脚边的长型苹果，如今即将从项下结出。回到她的家，通往家中之路的附近，停放着一叠榛子，显然是在法比亚诺的时代象征着成年的水果。邻近的一片樱桃，呈红白相间，像耶稣微小手中所见的果实，依偎于树枝上，正在悄然绽放。
 
 “我为自己在乡村扎根而自豪，”达拉·拉基奥内一边走着，一边告诉我。“这些植物是我们的历史。这些植物将会是我们的未来。二十年前，没有人考虑生物多样性。人们嘲笑我，说，‘你真是太浪漫了，居然研究这些古老的品种。’而现在人们明白：我们需要这些古老的品种来回答未来的问题。没有它们，没有根，我们就只是风中的叶子。”
-
-[GPT-4o mini]
-

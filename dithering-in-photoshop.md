@@ -1,3 +1,10 @@
+```
+Title: Dithering in Photoshop
+Source: http://abductedplatypus.com/tools/2017/04/14/dither-brushes.html
+Author: Abducted Platypus
+Date: 2017.04.14
+```
+
 # [Dithering in Photoshop](http://abductedplatypus.com/tools/2017/04/14/dither-brushes.html)
 
 I recently released a set of [Dither Brushes](https://abductedplatypus.itch.io/dither-brushes) for Photoshop (CS5 and probably higher). However it is [frowned upon](http://pixeljoint.com/forum/forum_posts.asp?TID=11299&PID=139318#139318) in the pixel art community to use tools when making pixel art, since the community finds a challenge in placing every pixel seperately and purposely. They make the perfect drawing within a grid and often with a limited color set. So why did I still develop a tool and make this set publicly available, and what are my [recommendations](http://abductedplatypus.com/tools/2017/04/14/dither-brushes.html#recommendations) for using it? To be answer this I will answer the following first:

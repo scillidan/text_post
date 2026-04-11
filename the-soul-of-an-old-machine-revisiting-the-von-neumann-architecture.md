@@ -1,3 +1,11 @@
+```
+Title: The Soul of an Old Machine: Revisiting the von Neumann Architecture
+Source: https://ankush.dev/p/neumann_architecture
+Author: Ankush
+Date: 2024.11.11
+Translator: GPT-4o mini
+```
+
 # [The Soul of an Old Machine: Revisiting the von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
 
 _Note: This post is based on a talk that I was supposed to give at a local FOSS United meetup but couldn't due to health issues._
@@ -154,11 +162,11 @@ Unrelated: Ever wondered why Linux systems calls do not provide seconds as a flo
 
 Imagine mathematical genius from 20th century suggesting it's hopeless to deal with round-off errors from successive rounding operations. This is _truly_ a hard problem to solve, just imagine a basic scenario like storing an order for multiple items.
 
-| Product | Rate | Qty | Line Total | Rounded Line Total |
-| --- | --- | --- | --- | --- |
-| Iron | 1.555 | 7.0 | 10.885 | 10.89 |
-| Zinc | 2.555 | 11.0 | 28.105 | 28.11 |
-| Grand Total |  |  | 38.99 | 39.00 |
+| Product     | Rate  | Qty  | Line Total | Rounded Line Total |
+| :-          | :-    | :-   | :-         | :-                 |
+| Iron        | 1.555 | 7.0  | 10.885     | 10.89              |
+| Zinc        | 2.555 | 11.0 | 28.105     | 28.11              |
+| Grand Total |       |      | 38.99      | 39.00              |
 
 If you have to round off to 2 digits, where should you round these numbers off? Rates? Line total? Grand total?
 

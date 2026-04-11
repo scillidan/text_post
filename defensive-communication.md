@@ -1,3 +1,9 @@
+```
+Title: DEFENSIVE COMMUNICATION
+Source: https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html
+Author: Jack R. Gibb
+```
+
 I provide this HTML version of a historical article because it was not easily available but was central to my article: Reagle, J. (2010). â€œBe niceâ€: Wikipedia norms for supportive communication. _New Review of Hypermedia and Multimedia (Special Issue on Web Science)_, 16(1), 161â€“180. [https://doi.org/10.1080/13614568.2010.498528](https://doi.org/10.1080/13614568.2010.498528).
 
 I am not responsible for the transcription or edits otherwise. —Reagle

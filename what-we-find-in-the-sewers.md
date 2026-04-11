@@ -1,3 +1,10 @@
+```
+Title: What We Find in the Sewers
+Source: https://www.asimov.press/p/sewers
+Author: Calum Drysdale
+Date: 2025.08.25
+```
+
 # [What We Find in the Sewers](https://www.asimov.press/p/sewers)
 
 ![](https://scillidan.github.io/cdn_image_post/what-we-find-in-the-sewers_01.webp)

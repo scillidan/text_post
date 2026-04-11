@@ -1,3 +1,10 @@
+```
+Title: The Fashion Police in 16th-century Italy
+Source: https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/
+Date: 2014.10
+Translator: GPT-4o mini
+```
+
 # [16世纪意大利的时装警察](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
 
 1595年9月15日，一名名叫萨尔瓦基奥·德·阿斯特的热那亚时尚男士被目击违反法律。热那亚国家档案馆的记录准确地描述了萨尔瓦基奥在那个秋天的日子里，当他在圣西罗广场漫步时所穿的衣服。他一定引人注目。他戴着“刺绣帽，身穿多色丝绸外套，袖口有金扣，手指上佩戴着两个白色宝石戒指，穿着黑色丝绸的夹克和刺绣裤子”。
@@ -47,6 +54,3 @@
 - [**“全新的方式”：中世纪时尚的诞生**](https://www.medievalists.net/2012/06/07/de-novo-modo-the-birth-of-fashion-in-the-middle-ages/)
 
 来源：[剑桥大学](http://www.cam.ac.uk/research/features/fancy-pants-skirmishes-with-the-fashion-police-in-16th-century-italy)
-
-[GPT-4o mini]
-

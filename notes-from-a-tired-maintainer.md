@@ -1,3 +1,10 @@
+```
+Title: Notes from a tired maintainer
+Source: https://github.com/pi0/tired-maintainer
+Author: Pooya Parsa
+Date: 2024.06.23
+```
+
 # [Notes from a tired maintainer](https://github.com/pi0/tired-maintainer)
 
 Hi. You might have come across this text either because you found it somehow or with a link, perhaps in a closed Pull-Request (PR) Issue or a chat. If you are coming from a closed issue or PR, before everything THANK YOU for your contributions and help, i do appreciate that ❤️

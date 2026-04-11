@@ -1,3 +1,11 @@
+```
+Title: The Life and Death of Open Source Companies
+Source: https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/
+Author: Armin Ronacher
+Date: 2023.12.25
+Translator: GPT-4o mini
+```
+
 # [开源公司的生与死](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 
 你可能知道，我对开源社区做出了[重要贡献](https://lucumr.pocoo.org/projects)，我为一家[开源公司](https://sentry.io/welcome/)工作，我们因为自称为开源而遭到了[不少质疑](https://news.ycombinator.com/item?id=36971490)，随后我们创建了[一个新的许可证](https://fsl.software/)，以解决至少部分这些问题。我最近也分享了[我对该许可证的个人看法](https://lucumr.pocoo.org/2023/11/19/cathedral-and-bazaaar-licensing/)，这不幸地[引发了更多负面评论](https://news.ycombinator.com/item?id=38331173)。这段引言可能让我听起来有些苦涩，所以我们来聊聊别的事情。
@@ -45,5 +53,3 @@ Bambu所做的事情——我相信从长远来看会被认可——就是让他
 
 这篇文章标记了[许可证](https://lucumr.pocoo.org/tags/licensing/)、[开源](https://lucumr.pocoo.org/tags/opensource/)和[想法](https://lucumr.pocoo.org/tags/thoughts/)  
 [复制为](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source.md) / [查看](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source.md) markdown
-
-[GPT-4o mini]

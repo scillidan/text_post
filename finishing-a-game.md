@@ -1,3 +1,10 @@
+```
+Title: Finishing a Game
+Source: https://makegames.tumblr.com/post/1136623767/finishing-a-game
+Author: Derek
+Date: 2010.09.17
+```
+
 # [Finishing a Game](https://makegames.tumblr.com/post/1136623767/finishing-a-game)
 
 ![image](https://scillidan.github.io/cdn_image_post/finishing-a-game_01.webp)

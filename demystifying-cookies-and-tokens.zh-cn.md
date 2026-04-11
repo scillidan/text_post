@@ -1,3 +1,11 @@
+```
+Title: Demystifying cookies and tokens
+Source: https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/
+Author: Tommi Hovi
+Date: 2024.05
+Translator: GPT-4o mini
+```
+
 # [揭开Cookies和Token的神秘面纱](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
 
 最近我开始深入了解Token和Cookies的世界。其中有一个客户希望防止Token和Cookies被盗，这促使我深入挖掘更多信息。我敢打赌你们一定听说过这些术语，并且很可能每天都在使用它们。但是Token和Cookies有很多变体，并且我们需要理解它们的一些背景，以便看到更大的图景。以下是我到目前为止的所学，让我们开始吧！
@@ -317,5 +325,3 @@ _应用程序注册清单配置_
 我们讨论了什么是Cookies，以及浏览器和网站如何使用Cookies来增强浏览体验。我们列举了一些Cookies的变化和它们的独特特征。我们还讨论了什么是Tokens以及在Microsoft身份平台中用于获取Tokens的协议，以及每种类型的Token在何种情况下相关。有了这些关于Cookies和Tokens的基础知识，我们就能继续在后续的博客文章中探讨如何妥协Cookies或Tokens并滥用它们。稍后，我们还将讨论如何防止Cookie被窃取和Token被盗！
 
 保持安全！
-
-[GPT-4o mini]

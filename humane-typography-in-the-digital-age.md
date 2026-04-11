@@ -1,3 +1,10 @@
+```
+Title: Humane Typography in the Digital Age: Thoughts on typography
+Source: https://matejlatin.github.io/Gutenberg/example2/
+Author: Matej Latin
+Date: 2016.01.25
+```
+
 # [Humane Typography in the Digital Age: Thoughts on typography](https://matejlatin.github.io/Gutenberg/example2/)
 
 **An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.**

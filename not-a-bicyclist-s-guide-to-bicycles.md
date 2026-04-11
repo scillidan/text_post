@@ -1,3 +1,10 @@
+```
+Title: Not a Bicyclist's Guide to Bicycles
+Source: https://www.lambdalatitudinarians.org/techblog/2024/11/14/not-a-bicyclists-guide-to-bicycles/
+Author: Nathan Contino
+Date: 2024.11.14
+```
+
 # [Not a Bicyclist's Guide to Bicycles](https://www.lambdalatitudinarians.org/techblog/2024/11/14/not-a-bicyclists-guide-to-bicycles/)
 
 All bicyclists ride bikes. But not all bike riders are bicyclists. I'm a bicycle enthusiast: someone who spends enough time riding and repairing bikes to know a thing or two about them. But I'm not a bicyclist, because I don't race my bike, or care about power meters or pacing or compete in events.

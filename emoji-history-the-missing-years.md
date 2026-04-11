@@ -1,3 +1,10 @@
+```
+Title: Emoji history: the missing years
+Source: https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/
+Author: Matt Sephton
+Date: 2024.06.04
+```
+
 # [Emoji history: the missing years](https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/)
 
 During [my research into vintage Japanese drawing software](https://blog.gingerbeardman.com/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/), I came across some devices that had built in sketch or handwritten memo functions. I bought a couple of them to see if they did anything cool or interesting. These sorts of devices are pre-internet, so there’s not much about them online, and they can’t be emulated, so the only way to find out what they do is to get first hand experience by reading the manual or, better, using one yourself. It’s difficult to find these devices in working condition, as most of them have screen polarisers that have gone bad over time, but if you’re lucky you can find one.
@@ -113,11 +120,11 @@ image courtesy of [ETL character database](http://etlcdb.db.aist.go.jp/etlcdb/)
 
 I was interested in how the emoji that I have redrawn compared to the 1997 _SoftBank_ and 1999 DoCoMo sets, and an early Pocket Bell, so here’s a little table.
 
-| _Sharp PA-8500_ | _NEC PI-ET1_ | _Sharp PI-4000_ | Pocket Bell R-FAHC | _SoftBank_ | NTT DoCoMo |
-| --- | --- | --- | --- | --- | --- | --- |
-| Year | 1988 | 1990 | 1994 | 1995 | 1997 | 1999 |
-| Quantity (approx) | 100 | 130 | 170 | 7 | 90 | 176 |
-| Resolution | 16×16 | 16×16 | 12×12 | 5×7 | 12×12 | 12×12 |
+| _Sharp PA-8500_   | _NEC PI-ET1_ | _Sharp PI-4000_ | Pocket Bell R-FAHC | _SoftBank_ | NTT DoCoMo |
+| :-                | :-           | :-              | :-                 | :-         | :-         | :-    |
+| Year              | 1988         | 1990            | 1994               | 1995       | 1997       | 1999  |
+| Quantity (approx) | 100          | 130             | 170                | 7          | 90         | 176   |
+| Resolution        | 16×16        | 16×16           | 12×12              | 5×7        | 12×12      | 12×12 |
 
 ## Conclusion
 

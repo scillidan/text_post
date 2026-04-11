@@ -1,3 +1,11 @@
+```
+Title: The Art of Finishing
+Source: https://www.bytedrum.com/posts/art-of-finishing/
+Author: Tomas Stropus
+Date: 2024.09.02
+Translator: GPT-4o mini
+```
+
 # [完成的艺术](https://www.bytedrum.com/posts/art-of-finishing/)
 
 这是一个宁静的星期六下午。我抽出几个宝贵的小时来编程，手中端着一杯热气腾腾的咖啡，心中充满了投入项目的熟悉冲动。当我安顿在椅子里，打开终端时，面临着一个过于熟悉的挑战：决定从我的多个未完成项目中挑选一个来处理。
@@ -71,5 +79,3 @@
 项目海德拉在我的工作上盘踞了太久。怀着新的策略和决心，我准备面对这个怪物。是时候停止计划，开始行动了。
 
 现在，请原谅我，我有一个项目要完成——这次，我打算将其完成。
-
-[GPT-4o mini]

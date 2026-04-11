@@ -1,3 +1,10 @@
+```
+Title: The forgotten medieval fruit with a vulgar name
+Source: https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot
+Author: Zaria Gorvett
+Date: 2021.03.25
+```
+
 # [The forgotten medieval fruit with a vulgar name](https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot)
 
 ![](https://scillidan.github.io/cdn_image_post/the-forgotten-medieval-fruit-with-a-vulgar-name_01.webp)

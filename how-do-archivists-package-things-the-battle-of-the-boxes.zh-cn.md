@@ -1,3 +1,11 @@
+```
+Title: How do archivists package things? The battle of the boxes
+Source: https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/
+Author: Region of Peel Archives
+Date: 2024.09.10
+Translator: GPT-4o mini
+```
+
 # [档案管理员如何打包东西？盒子的对决](https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/)
 
 [![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_01.webp)](https://peelarchivesblog.com/wp-content/uploads/2024/09/20240409_093520-3819877179-e1725479157965.jpg)
@@ -419,6 +427,3 @@ _从上面看见的一个垂直填充的盒子。该盒子包含含有形状不�
 
 ![](https://scillidan.github.io/cdn_image_post/how-do-archivists-package-things-the-battle-of-the-boxes_g1_17.webp)  
 在佩尔地区档案馆的定制封闭物中稳定的脆弱的玻璃板底片。
-
-[GPT-4o mini]
-

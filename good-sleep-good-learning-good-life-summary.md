@@ -1,3 +1,9 @@
+```
+Title: Good sleep, good learning, good life: Summary
+Source: https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life:_Summary
+Date: 2018.01.12
+```
+
 # [Good sleep, good learning, good life: Summary](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life:_Summary)
 
 This text is part of: "_[Science of sleep](https://supermemo.guru/wiki/Science_of_sleep "Science of sleep")_" by [Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak "Piotr Wozniak") (2017)

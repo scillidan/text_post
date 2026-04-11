@@ -1,3 +1,11 @@
+```
+Title: Managing the chaos of context switching
+Source: https://leaddev.com/process/managing-chaos-context-switching
+Author: Addy Osmani
+Date: 2023.09.04
+Translator: GPT-4o mini
+```
+
 # [管理上下文切换的混乱](https://leaddev.com/process/managing-chaos-context-switching)
 
 **是时候审视上下文切换的好、坏和非常糟糕的元素了。更好的是，我们将看看一些管理它的策略。**
@@ -109,6 +117,3 @@
 也许令人惊讶的是，上下文切换还带来了许多意想不到的好处，这也必须在你的团队和组织文化的更大背景下进行审视。
 
 通过解码上下文切换之谜，并采取策略来帮助我们管理它，我们不仅在优化代码；我们在优化人类体验，带来更快乐的团队和更高质量的代码。
-
-[GPT-4o mini]
-

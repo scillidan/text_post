@@ -1,3 +1,10 @@
+```
+Title: The Fashion Police in 16th-century Italy
+Source: https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/
+Date: 2014.10
+Translator: GPT-4o mini
+```
+
 # [The Fashion Police in 16th-century Italy](https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/)
 
 On 15 September 1595, a Genoese man-about-town called Salvagio de Aste was spotted breaking the law. The record in Genoa’s state archives describes with remarkable precision what Salvagio was wearing that autumn day as he strolled through the square of San Siro. He must have cut a dashing figure. He sported “an embroidered cap, a silk doublet of many colours with gold buttons on the sleeves, two rings with white stones on his fingers, a jerkin and embroidered hose in black silk”.

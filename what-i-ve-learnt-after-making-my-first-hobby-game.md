@@ -1,3 +1,10 @@
+```
+Title: What I've Learnt After Making My First Hobby Game
+Source: https://ruoyusun.com/2018/06/15/guide-for-non-game-dev.html
+Author: Ruoyu Sun
+Date: 2018.06.15
+```
+
 # [What I've Learnt After Making My First Hobby Game](https://ruoyusun.com/2018/06/15/guide-for-non-game-dev.html)
 
 ## Why

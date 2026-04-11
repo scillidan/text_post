@@ -1,3 +1,10 @@
+```
+Title: The Secret Life Of Moles: What They’re Really Up To Underground
+Source: https://thenaturenetwork.co.uk/the-secret-life-of-moles-what-theyre-really-up-to-underground/
+Author: Sarah Whitmore
+Date: 2025.08.23
+```
+
 # [The Secret Life Of Moles: What They’re Really Up To Underground](https://thenaturenetwork.co.uk/the-secret-life-of-moles-what-theyre-really-up-to-underground/)
 
 ![](https://scillidan.github.io/cdn_image_post/the-secret-life-of-moles-what-they-re-really-up-to-underground_01.webp)

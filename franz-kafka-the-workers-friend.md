@@ -1,3 +1,10 @@
+```
+Title: Franz Kafka – the workers’ friend
+Source: https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/
+Author: mwcraig11
+Date: 2018.01.14
+```
+
 # [Franz Kafka – the workers’ friend](https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/)
 
 Everyone has heard of Franz Kafka, the writer of such masterpieces such as Metamorphosis and The Trial. His troubled relationship with his father, his love life and his eventual early death from tuberculosis are all well documented. What is less well known is his work for Die Arbeiter-Unfall-Versicherungs-Anhalt für das Königreich Böhmen in Prag (the Workers Accident Insurance Institute for the Kingdom of Bohemia in Prague).

@@ -1,3 +1,10 @@
+```
+Title: Managing the chaos of context switching
+Source: https://leaddev.com/process/managing-chaos-context-switching
+Author: Addy Osmani
+Date: 2023.09.04
+```
+
 # [Managing the chaos of context switching](https://leaddev.com/process/managing-chaos-context-switching)
 
 **It’s time to examine the good, the bad, and the very ugly elements of context switching. Even better, we’ll take a look at some strategies for managing it.**

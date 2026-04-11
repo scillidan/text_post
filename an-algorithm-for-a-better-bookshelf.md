@@ -1,3 +1,10 @@
+```
+Title: An Algorithm for a Better Bookshelf: Managing the strategic positioning of empty spaces.
+Source: https://cacm.acm.org/news/an-algorithm-for-a-better-bookshelf/
+Author: Erica Klarreich
+Date: 2025.06.30
+```
+
 # [An Algorithm for a Better Bookshelf: Managing the strategic positioning of empty spaces.](https://cacm.acm.org/news/an-algorithm-for-a-better-bookshelf/)
 
 Drop in at a library, and you’ll likely notice that most shelves aren’t full—librarians leave some empty space on each shelf. That way, when they get new books, they can slot them into place without having to move too many other books.
@@ -72,4 +79,3 @@ Then again, the new work “opens things up,” Blelloch said. “Who knows what
 	**A tight lower bound for online monotonic list labeling. *SIAM Journal on Discrete Mathematics, 18* (3):626-637, 2004.**
 - *Itai, A. et al.*  
 	**“A sparse table implementation of priority queues.” In *Proc. 8th International Colloquium on Automata, Languages and Programming (ICALP), volume 115 of Lecture Notes in Computer Science*, pages 417-431, Springer, 1981.**
-	

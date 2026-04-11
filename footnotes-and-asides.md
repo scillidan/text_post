@@ -1,3 +1,10 @@
+```
+Title: Footnotes and other Diversions
+Source: https://www.publisha.org/papers/footnotes/
+Author: Chris Jennings
+Date: 2018.06.17
+```
+
 # [Footnotes and other Diversions](https://www.publisha.org/papers/footnotes/)
 
 **How can footnotes, endnotes, margin notes and other deviations from the narrative flow, work best in a screen based medium?**

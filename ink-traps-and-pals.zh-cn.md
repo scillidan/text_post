@@ -1,3 +1,11 @@
+```
+Title: Ink traps and pals
+Source: https://tosche.net/blog/ink-traps-and-pals
+Author: Toshi Omagari
+Date: 2021.04.03
+Translator: GPT-4o mini
+```
+
 # [墨水陷阱及其伙伴](https://tosche.net/blog/ink-traps-and-pals)
 
 最近我看到了一条 [Yves Peters 的推特](https://twitter.com/baldcondensed/status/1371843766840143887?s=21)，问怎么称呼这些尖刺，我简单回复了一下（剧透：这是个轻型陷阱！）。我还有许多相关内容想探讨，因此决定不仅写墨水陷阱，还包括类似的概念和形状。作为字体设计师，生活中有些日子，他们只是想写4000字，畅所欲言，无需考虑简洁。
@@ -190,5 +198,3 @@ Dynamo字体公司的Whyte Inktrap。
 
 ![](https://scillidan.github.io/cdn_image_post/ink-traps-and-pals_33.webp)  
 那是一个深刻的隐喻。
-
-[GPT-4o mini]

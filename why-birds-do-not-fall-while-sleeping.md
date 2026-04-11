@@ -1,4 +1,11 @@
-# [Why birds do not fall while sleeping](https://news.cnrs.fr/articles/https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping)
+```
+Title: Why birds do not fall while sleeping
+Source: https://news.cnrs.fr/articles/why-birds-do-not-fall-while-sleeping
+Author: Mehdi Harmi
+Date: 2024.10.15
+```
+
+# [Why birds do not fall while sleeping](https://news.cnrs.fr/articles/why-birds-do-not-fall-while-sleeping)
 
 ![](https://scillidan.github.io/cdn_image_post/why-birds-do-not-fall-while-sleeping_01.webp)  
 Group of pink flamingos resting, Namibia  

@@ -1,3 +1,11 @@
+```
+Title: When Is Insurance Worth It?
+Source: https://entropicthoughts.com/when-is-insurance-worth-it
+Author: kqr
+Date: 2025.06.03
+Translator: GPT-4o mini
+```
+
 # [保险何时值得](https://entropicthoughts.com/when-is-insurance-worth-it)
 
 简而言之：如果你想知道购买保险是否值得，[使用Kelly保险计算器](https://xkqr.org/insurance)。如果你想知道为什么或如何，继续往下读。
@@ -154,5 +162,3 @@ V \;=\;\sum\bigl[p_i\,\log\!\frac{\,W - P - d_i\,}{\,W - c_i\,}\bigr]
 [^4]: 如果您签订一份为期几年的长期保险，例如人寿保险，您可能需要使用复利数学计算这一成本。
 [^5]: 在以下内容中，我们假设这些事件 ii 形成一个划分，即它们是互斥的。如果我们认为可能同时发生多起坏事，我们必须通过包括一些其他事件的组合来建模。
 [^6]: 有关如何推导此内容的信息，[请参阅有关Kelly标准的上一篇文章](https://entropicthoughts.com/the-misunderstood-kelly-criterion.html)。
-
-[GPT-4o mini]

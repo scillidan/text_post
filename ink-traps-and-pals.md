@@ -1,3 +1,10 @@
+```
+Title: Ink traps and pals
+Source: https://tosche.net/blog/ink-traps-and-pals
+Author: Toshi Omagari
+Date: 2021.04.03
+```
+
 # [Ink traps and pals](https://tosche.net/blog/ink-traps-and-pals)
 
 Recently I’ve seen [this tweet from Yves Peters](https://twitter.com/baldcondensed/status/1371843766840143887?s=21) asking how to call these spikes which I replied briefly (spoiler: it’s a light trap!). I had a lot more to explore on the topic, so I decided to write not just about light traps, but similar concepts and shapes too. There are days in life of typeface designers when they want to write 4000 words about these things with no regards to conciseness.

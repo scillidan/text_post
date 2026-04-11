@@ -1,3 +1,10 @@
+```
+Title: Demystifying cookies and tokens
+Source: https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/
+Author: Tommi Hovi
+Date: 2024.05
+```
+
 # [Demystifying cookies and tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
 
 I have been recently diving head first into the world of tokens and cookies. One of my customer’s is trying to prevent token and cookie theft and it has got me digging more information and deeper. I bet you have heard these terms and most likely you’re using them daily. But there are variations of tokens and cookies and some context around them that we should understand to see the bigger picture. Here’s what I’ve learned so far! Let’s start!
@@ -83,7 +90,7 @@ Essential cookies are necessary for the website to function properly and often m
 
 ##### Session cookies _(a.k.a. non-persistent cookie, in-memory cookie, transient cookie)_
 
-**Session cookies are temporary cookie files**, which are removed when user closes the browser or their session becomes inactive (if user logs out the session will end). They are single sessions cookies. When user restarts their browser and goes back to the site that created the cookie, the website will not recognize the user because there’s no cookie for the website to read in user’s browser. User will have to log back in (if login for the website is required). Upon logon, a new session cookie will be generated, which will store user’s browsing information and will be active until the user leaves the site and closes the browser. As the session cookie has its own unique id, it can also be used to track website visitor count. If you’re planning a vacation trip and your visit a travel agency’s website multiple times a day, the session ID of the cookie will reveal to the site that you’re just one unique visitor.
+**Session cookies are temporary cookie files**, which are removed when user closes the browser or their session becomes inactive (if user logs out the session will end). They are single sessions cookies. When user restarts their browser and goes back to the site that created the cookie, the website will not recognize the user because there’s no cookie for the website to read in user’s browser. User will have to log back in (if login for the website is required). Upon logon, a new session cookie will be generated, which will store user’s browsing information and will be active until the user leaves the site and closes the browser. As the session cookie has its own unique id, it can also be used to track website visitor count. If you’re planning a vacation trip and your visit a travel agency’s website multiple times a day, the session ID of the cookie will reveal to the site that you’re just one unique visitor.
 
 ##### First-party cookies _(a.k.a. persistent cookies, permanent cookies, stored cookies)_
 
