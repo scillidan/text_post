@@ -1,11 +1,11 @@
 # /// script
 # requires-python = ">=3.12"
 # dependencies = [
-#     "Pillow"
+#     "Pillow==12.2.0"
 # ]
 # ///
 
-# Authors: GLM-4.5🧙‍, scillidan🤡
+# Authors: GLM-4.5🧙‍, Kimi-K2.5🧙‍, scillidan🤡
 
 import sys
 import argparse
@@ -166,50 +166,27 @@ def generate_typ(filename, fonts):
     with open(md_processed_path, "w", encoding="utf-8") as f:
         f.write(md_content_local)
 
-    # Instead of copying images, create symbolic link in cmarker directory
-    # This avoids file duplication and allows direct file access
+    # Copy images to cmarker directory
     try:
         cmarker_dir = Path.home() / "AppData/Local/typst/packages/preview/cmarker/0.1.8"
         cmarker_images_dir = cmarker_dir / "images"
+        cmarker_images_dir.mkdir(parents=True, exist_ok=True)
 
-        # Remove existing symlink/directory if exists
-        if cmarker_images_dir.exists():
-            if cmarker_images_dir.is_symlink():
-                cmarker_images_dir.unlink()
-            else:
-                shutil.rmtree(cmarker_images_dir)
+        for image_path in images_dir.glob("*"):
+            if image_path.suffix.lower() in [
+                ".jpg",
+                ".jpeg",
+                ".png",
+                ".gif",
+                ".svg",
+                ".webp",
+            ]:
+                dest_path = cmarker_images_dir / image_path.name
+                shutil.copy2(image_path, dest_path)
 
-        # Create symbolic link to our images directory
-        cmarker_images_dir.symlink_to(images_dir.absolute())
-        print(f"Created symbolic link: cmarker/images -> {images_dir.absolute()}")
-
-    except Exception as e:
-        print(f"Warning: Could not create symbolic link: {e}")
-        print("Falling back to copying images...")
-        # Fallback to copying if symlink fails
-        try:
-            cmarker_dir = (
-                Path.home() / "AppData/Local/typst/packages/preview/cmarker/0.1.8"
-            )
-            cmarker_images_dir = cmarker_dir / "images"
-            cmarker_images_dir.mkdir(parents=True, exist_ok=True)
-
-            for image_path in images_dir.glob("*"):
-                if image_path.suffix.lower() in [
-                    ".jpg",
-                    ".jpeg",
-                    ".png",
-                    ".gif",
-                    ".svg",
-                    ".webp",
-                ]:
-                    dest_path = cmarker_images_dir / image_path.name
-                    if not dest_path.exists():
-                        shutil.copy2(image_path, dest_path)
-
-            print(f"Copied images to cmarker directory")
-        except Exception as copy_error:
-            print(f"Error copying images: {copy_error}")
+        print(f"Copied images to cmarker directory")
+    except Exception as copy_error:
+        print(f"Error copying images: {copy_error}")
 
     font_str = ", ".join(f'"{f}"' for f in fonts)
     content = f"""#import "@preview/cmarker:0.1.8"
@@ -231,21 +208,19 @@ def generate_typ(filename, fonts):
 
 
 def cleanup_images_and_links(filename):
-    """Clean up images directory and cmarker symlink after compilation"""
+    """Clean up images directory and cmarker images after compilation"""
     images_dir = Path("images")
 
-    # First, remove cmarker symlink
     try:
         cmarker_images_dir = (
             Path.home() / "AppData/Local/typst/packages/preview/cmarker/0.1.8/images"
         )
-        if cmarker_images_dir.exists() and cmarker_images_dir.is_symlink():
-            cmarker_images_dir.unlink()
-            print(f"Cleaned up cmarker symlink")
+        if cmarker_images_dir.exists():
+            shutil.rmtree(cmarker_images_dir)
+            print(f"Cleaned up cmarker images")
     except Exception as e:
-        print(f"Warning: Could not cleanup cmarker symlink: {e}")
+        print(f"Warning: Could not cleanup cmarker images: {e}")
 
-    # Then remove local images directory
     if images_dir.exists():
         shutil.rmtree(images_dir)
         print(f"Cleaned up images directory: {images_dir}")
